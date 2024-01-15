@@ -1,0 +1,18 @@
+.divtextbody{
+    display: flex;
+    flex-wrap: wrap;
+border:2px solid gray;
+background-color: black;
+padding: 5px;
+width: 300px;
+text-align: center;
+
+}
+
+
+
+.buttonbody{
+   display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+}
