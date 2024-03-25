@@ -1,0 +1,17 @@
+.question1{
+    background-color:  chocolate;
+    border:2px solid black;
+    margin-bottom: 10px;
+  }
+  .question{
+    padding-bottom: 10px;
+  }
+  .accordion{
+    background-color: green;
+    padding-bottom: 20px;
+    border: 2px solid black;
+    color:white
+  }
+  .enablebutton{
+    margin-bottom: 20px;
+  }
