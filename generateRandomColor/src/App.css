@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+   
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height:100vh;
+
+   
+  
+}
+
