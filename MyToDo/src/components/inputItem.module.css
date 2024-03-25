@@ -1,0 +1,27 @@
+.inputvalue{
+   padding:7px;
+   margin-right: 10px;
+   border-radius: 4px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   width: 400px;
+
+}
+
+.buttonvalue{
+    padding:7px;
+   border-radius: 4px;
+   background-color:purple;
+    cursor:pointer;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    
+}
+.headervalue{
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Courier New', Courier, monospace
+
+}

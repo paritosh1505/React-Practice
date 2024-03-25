@@ -1,0 +1,12 @@
+.Inputbox{
+    display: flex;
+    background-color: black;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: white;
+    border:2px solid white;
+    width: 50px;
+    height:50px;
+    color: white;
+    font-size: xx-large;
+}

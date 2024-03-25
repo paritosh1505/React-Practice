@@ -1,0 +1,9 @@
+.buttonstyles{
+    background-color: gray;
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+

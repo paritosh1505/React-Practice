@@ -1,0 +1,77 @@
+.buttonCssDiv ,.buttonCssDivYellow,.buttonCssDivBlack,.buttonCssDivRed,.buttonCssDivGreen,.buttonCssDivPurple,.buttonCssDivBlue,.buttonCssDivDefault{
+    min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   height: 100vh;
+   
+}
+.buttonCssDiv{
+    background-color: white;
+}
+.buttonCssDivBlack{
+    background-color: black;
+    
+}
+.buttonCssDivYellow{
+    background-color: yellow;
+   
+}
+.buttonCssDivRed{
+    background-color: red;
+   
+}
+.buttonCssDivGreen{
+    background-color: green;
+   
+}
+.buttonCssDivPurple{
+    background-color: purple;
+   
+}
+.buttonCssDivBlue{
+    background-color: blue;
+   
+}
+.buttonCssDivDefault{
+    background-color: white;
+   
+}
+.buttonCss{
+    margin-bottom: 20px;
+    width: 60px;
+    border-radius: 5cqh;
+    font-weight:bold;
+    margin-left: 5px;
+}
+.buttonCssRed,.buttonCssBlack,.buttonCssYellow,.buttonCssBlack,.buttonCssPurple,.buttonCssGreen,.buttonCssBlue,.buttonCssDefault{
+    margin-bottom: 20px;
+    color: orange;
+    width: 60px;
+    border-radius: 5cqh;
+    font-weight:bold;
+    margin-left: 5px;
+    cursor: pointer;
+ 
+}
+.buttonCssRed{
+    background-color: red;
+ }
+.buttonCssYellow{
+   background-color: yellow;
+}
+.buttonCssBlack{
+   background-color: black;
+}
+.buttonCssPurple{
+    background-color: purple;
+ }
+ .buttonCssGreen{
+    background-color: green;
+ }
+ .buttonCssBlue{
+    background-color: blue;
+ }
+ .buttonCssDefault{
+    background-color: white;
+ }

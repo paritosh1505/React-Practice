@@ -1,0 +1,12 @@
+:root{
+  background: linear-gradient(to right, #3494E6, #EC6EAD);
+
+}
+
+.calculator-border{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+ 
+}
