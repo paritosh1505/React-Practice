@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#container{
+  display: flex;
+  background-color: yellow;
+  border: 2px solid green;
+  height:400px;
+  width:400px;
+  display: flex;
+  align-items: center;
+  
+  position: relative;
+ 
+}
+.imageContainer{
+height: 400px;
+width: 400px;
+}
+.buttonnext{
+  position: absolute;
+  background-color: blue;
+  border-radius: 50%;
+ right: 0;
+  transform: translateX(50%);
+  
+  
+}
+.buttonprev{
+  position: absolute;
+  top: 50%;
+  border-radius: 50%;
+  left:0;
+  transform: translateX(-50%);
+  background-color: green;
+}
