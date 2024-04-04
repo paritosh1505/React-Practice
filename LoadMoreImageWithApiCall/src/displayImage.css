@@ -1,0 +1,23 @@
+.body {
+  margin: 0;
+  padding: 0;
+  background-color: green;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.displayImage {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.imagecontaier {
+  padding: 20px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+}
+.displayImage img {
+  width: 200px;
+  height: 200px;
+}
