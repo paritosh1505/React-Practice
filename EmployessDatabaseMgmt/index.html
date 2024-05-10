@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Sandbox</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div id="app">
+      <div class="header">
+        <h1 class="header__title">Employee Database Mangemnt</h1>
+        <button class="header__button">Add Button</button>
+      </div>
+      <div class="formPopup">
+        <form>
+          First Name
+          <input id="fname" type="text" placeholder="name" />
+          Last Name
+          <input id="lname" type="text" placeholder="name" />
+          Age
+          <br />
+          <input id="dob" type="date" placeholder="Age" />
+          <br />
+          Profile Page
+          <input id="url" type="text" placeholder="Profile URL" />
+          Email
+          <input id="email" type="text" placeholder="Email" />
+          Phone
+          <input id="phone" type="text" placeholder="Phone" />
+          <button id="submitButton" style="margin-top: 4px" type="Submit">
+            Submit
+          </button>
+        </form>
+      </div>
+      <div class="employee">
+        <div class="employee__information" id="empInfo">
+          Employee infomation
+        </div>
+        <div class="employee__detail" id="empDetail">Emplyee Detail</div>
+      </div>
+    </div>
+
+    <script src="./script.js" type="module"></script>
+  </body>
+</html>
